@@ -106,7 +106,7 @@ class WidgetManager:
                             'desc': ADDON.getLocalizedString(30266),
                             'widget': 'recordings_small',
                             'width': 260,
-                            'height': 250
+                            'height': 210
                         },
                         {
                             'label': ADDON.getLocalizedString(30264),
@@ -154,7 +154,7 @@ class WidgetManager:
                             'desc': ADDON.getLocalizedString(30266),
                             'widget': 'tv_runningat_small',
                             'width': 260,
-                            'height': 250
+                            'height': 210
                         },
                     ]
                 },
@@ -518,7 +518,7 @@ class WidgetManager:
                             'desc': '',
                             'widget': 'addonpath_thumb_large',
                             'width': 310,
-                            'height': 300
+                            'height': 240
                         },
                         {
                             'label': ADDON.getLocalizedString(30264),
